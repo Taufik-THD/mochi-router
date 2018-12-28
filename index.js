@@ -11,14 +11,11 @@ class Router {
 }
 
 class Link {
-  state = {
-    prefix: '#!'
-  }
   view(props) {
     return (
       <a
         class={props.class}
-        href={this.state.prefix + props.route}
+        href={'#!' + props.route}
       >
         {props.children}
       </a>
