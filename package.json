@@ -1,0 +1,23 @@
+{
+  "name": "mochi-router",
+  "version": "1.0.0",
+  "description": "Mochi router Mithril adapter on JSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochijs/mochi-router.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mochijs/mochi-router/issues"
+  },
+  "homepage": "https://github.com/mochijs/mochi-router#readme",
+  "dependencies": {
+    "mithril": "^1.1.6"
+  }
+}
