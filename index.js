@@ -23,7 +23,7 @@ class Link {
   }
 }
 
-export default {
+export {
   Router,
   Link
 }
